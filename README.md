@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-    <title>Port Scanner</title>
-</head>
-
 <body>
 
 <h1>Port Scanner</h1>
